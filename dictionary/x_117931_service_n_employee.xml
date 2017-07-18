@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="employee" max_length="40" name="x_117931_service_n_employee" type="collection">
+        <element label="Department" max_length="40" name="department" type="string"/>
+        <element label="First" max_length="40" name="first" type="string"/>
+        <element label="ID Number" max_length="40" name="id_number" type="string"/>
+        <element display="true" label="Last Name" max_length="40" name="last_name" type="string"/>
+    </element>
+</database>

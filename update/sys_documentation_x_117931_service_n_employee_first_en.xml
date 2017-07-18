@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="first" label="First" language="en" table="x_117931_service_n_employee">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>first</element>
+            <help/>
+            <hint/>
+            <label>First</label>
+            <language>en</language>
+            <name>x_117931_service_n_employee</name>
+            <plural>Firsts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-18 12:26:26</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>e092fad94f000300150806f18110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>First</sys_name>
+            <sys_package display_value="Service Now Store Link" source="x_117931_service_n">7f7ca2114f000300150806f18110c7aa</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Service Now Store Link">7f7ca2114f000300150806f18110c7aa</sys_scope>
+            <sys_update_name>sys_documentation_x_117931_service_n_employee_first_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 12:26:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
